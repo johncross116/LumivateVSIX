@@ -10,7 +10,7 @@
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)" />
-        <Update Path="https://yourdomain.com/updates/extension.vsixmanifest" />
+        <Update Path="https://github.com/johncross116/LumivateVSIX/raw/refs/heads/main/source.extension.vsixmanifest" />
     </Installation>
     <Prerequisites>
         <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,)" DisplayName="Visual Studio core editor" />
